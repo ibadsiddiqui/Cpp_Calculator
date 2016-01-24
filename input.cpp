@@ -29,4 +29,5 @@ main()
 			a.Equations();
 			break;
 	}
+	main();
 }
